@@ -121,10 +121,15 @@
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
+        <members>Support_Test_Obj__c</members>
         <members>Task</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Support_Test_Obj__c</members>
+        <name>CustomTab</name>
     </types>
     <types>
         <members>unfiled$public</members>
@@ -139,6 +144,7 @@
         <name>EscalationRules</name>
     </types>
     <types>
+        <members>AR_test_UtilityBar</members>
         <members>LightningSalesConsole_UtilityBar</members>
         <members>LightningService_UtilityBar</members>
         <members>Test_LEX_App_UtilityBar</members>
@@ -189,6 +195,7 @@
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
         <members>Solution-Solution Layout</members>
+        <members>Support_Test_Obj__c-Support Test Obj Layout</members>
         <members>Task-Task Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
@@ -245,6 +252,7 @@
         <members>Product2.AllProducts</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
+        <members>Support_Test_Obj__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
